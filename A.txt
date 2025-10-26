@@ -1,0 +1,2 @@
+user1 is editing A.txt
+this is second line by user1
