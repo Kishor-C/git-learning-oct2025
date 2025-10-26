@@ -1,2 +1,2 @@
-user2 edited A.txt
-hello user2
+user2 and user1 content is altered
+this is the final code
